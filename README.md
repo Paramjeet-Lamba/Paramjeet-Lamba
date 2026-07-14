@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="100%">
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Paramjeet%20Lamba&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=AI%20%7C%20ML%20%7C%20Software%20Developer&descAlignY=75&descSize=18" width="100%"/>
 # Hi there, I'm Paramjeet Lamba <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 </div>
